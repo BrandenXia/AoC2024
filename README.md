@@ -9,3 +9,4 @@
 - day 5: Shell
 - day 6: Kotlin
 - day 7: PLpgSQL
+- day 8: Mathematica (Wolfram Language)
