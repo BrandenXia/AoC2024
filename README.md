@@ -10,3 +10,21 @@
 - day 6: Kotlin
 - day 7: PLpgSQL
 - day 8: Mathematica (Wolfram Language)
+
+Languages Bank:
+- Swift
+- Go
+- C
+- C#
+- JavaScript
+- Python
+- Java
+- Nim
+- Zig
+- Lisp
+- Objective-C
+- Objective-C++
+- Cython
+- Elixir
+- PureScript
+- Ruby
