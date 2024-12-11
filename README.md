@@ -10,6 +10,7 @@
 - day 6: Kotlin
 - day 7: PLpgSQL
 - day 8: Mathematica (Wolfram Language)
+- day 9: Zig
 
 Languages Bank:
 - Swift
@@ -20,7 +21,6 @@ Languages Bank:
 - Python
 - Java
 - Nim
-- Zig
 - Lisp
 - Objective-C
 - Objective-C++
