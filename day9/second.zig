@@ -40,7 +40,7 @@ fn defrag(disk: []Disk) []Disk {
     const File = struct { id: usize, start: usize, end: usize };
 
     var files = std.ArrayList(File).init(std.heap.page_allocator);
-    defer files.deinit();
+    errdefer files.deinit();
 
     var i: usize = 0;
     while (i < disk.len) {
@@ -100,7 +100,7 @@ fn checksum(disk: []Disk) usize {
 
 pub fn main() !void {
     var disk = Disk.parse(@embedFile("input.txt")) catch unreachable;
-    defer disk.deinit();
+    errdefer disk.deinit();
 
     const result = checksum(defrag(disk.items));
 
