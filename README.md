@@ -11,6 +11,7 @@
 - day 7: PLpgSQL
 - day 8: Mathematica (Wolfram Language)
 - day 9: Zig
+- day 10: Cython
 
 Languages Bank:
 - Swift
@@ -24,7 +25,6 @@ Languages Bank:
 - Lisp
 - Objective-C
 - Objective-C++
-- Cython
 - Elixir
 - PureScript
 - Ruby
