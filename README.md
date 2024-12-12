@@ -22,7 +22,6 @@ Languages Bank:
 - JavaScript
 - Python
 - Java
-- Nim
 - Lisp
 - Objective-C
 - Objective-C++
