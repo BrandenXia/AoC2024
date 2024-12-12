@@ -12,6 +12,7 @@
 - day 8: Mathematica (Wolfram Language)
 - day 9: Zig
 - day 10: Cython
+- day 11: Nim
 
 Languages Bank:
 - Swift
