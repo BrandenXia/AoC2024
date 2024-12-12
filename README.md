@@ -28,3 +28,4 @@ Languages Bank:
 - Elixir
 - PureScript
 - Ruby
+- R
