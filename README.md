@@ -13,6 +13,7 @@
 - day 9: Zig
 - day 10: Cython
 - day 11: Nim
+- day 12: Ruby
 
 Languages Bank:
 - Swift
