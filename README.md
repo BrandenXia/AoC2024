@@ -29,5 +29,4 @@ Languages Bank:
 - Objective-C++
 - Elixir
 - PureScript
-- Ruby
 - R
