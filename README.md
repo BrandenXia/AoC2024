@@ -14,6 +14,7 @@
 - day 10: Cython
 - day 11: Nim
 - day 12: Ruby
+- day 13: Julia
 
 Languages Bank:
 - Swift
