@@ -15,6 +15,7 @@
 - day 11: Nim
 - day 12: Ruby
 - day 13: Julia
+- day 14: Elixir
 
 Languages Bank:
 - Swift
@@ -27,6 +28,5 @@ Languages Bank:
 - Lisp
 - Objective-C
 - Objective-C++
-- Elixir
 - PureScript
 - R
